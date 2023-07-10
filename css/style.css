@@ -854,6 +854,24 @@
     .detail-content {
       flex-wrap: wrap;
     }
+
+    .detail-container {
+      width: 70%;
+      height: 70%;
+    }
+
+    .detail-container .close-icon {
+      position: absolute;
+      right: 1rem;
+    }
+
+    .detail-content img {
+      height: 25rem;
+      width: 25rem;
+      margin-right: 2rem;
+      margin-bottom: 2rem;
+      margin-top: 1.5rem;
+    }
   }
   
   /* Mobile Phone */
